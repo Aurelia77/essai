@@ -1,1 +1,1 @@
-echo "Hello Aurelia !"
+<?php echo "Hello Aurelia !" ?>
